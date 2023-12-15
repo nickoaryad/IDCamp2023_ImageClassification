@@ -1,7 +1,7 @@
 Welcome to the README of **Final Assignment: Image Classification**. 
 
 ## The Dataset 📈
-This repository uses dataset available [here](https://github.com/dicodingacademy/assets/releases/download/release/rockpaperscissors.zip)). 
+This repository uses dataset available [here](https://github.com/dicodingacademy/assets/releases/download/release/rockpaperscissors.zip). 
 
 ## The Devs ✒️
 This repository is developed as Final Assignment of **Belajar Machine Learning untuk Pemula** module, a part of **Data Science** learning path of **Dicoding** awarded by IDCamp 2023. 
