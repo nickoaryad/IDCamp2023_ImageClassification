@@ -1,4 +1,4 @@
-Welcome to the README of **Final Assignment: Image Classification**. 
+Welcome to the README of **Machine Learning: Image Classification**. 
 
 ## The Dataset 📈
 This repository uses dataset available [here](https://github.com/dicodingacademy/assets/releases/download/release/rockpaperscissors.zip). 
